@@ -1,5 +1,6 @@
 We used a dataset from Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
-Based on the columns and data, we aimed to gain insights related to price, sales, revenue and client behaviour.
+Based on the columns and data, we aimed to gain insights related to price, sales, revenue, and client behaviour.
+Some insights were displayed on PowerBi.
 
 
 -- Distribution by ZIP code
